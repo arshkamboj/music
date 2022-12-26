@@ -1,6 +1,6 @@
 # music
 
-This template should help get you started developing with Vue 3 in Vite.
+A music player web application using Vue and Firebase.
 
 ## Recommended IDE Setup
 
