@@ -56,7 +56,7 @@ npm run test:e2e
 npm run lint
 ```
 
-Backend Documentation (Firebase)
+### Backend Documentation (Firebase)
 Go to your firebase console and create a new project.
 Create a new web project.
 Make sure to copy and paste the configuration into src/includes/firebase.js.
